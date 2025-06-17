@@ -33,7 +33,6 @@
             this.linklblVoltar = new System.Windows.Forms.LinkLabel();
             this.lblNome = new System.Windows.Forms.Label();
             this.lblCNPJ = new System.Windows.Forms.Label();
-            this.cbLivro = new System.Windows.Forms.ComboBox();
             this.cbUsuario = new System.Windows.Forms.ComboBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
@@ -48,6 +47,7 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.dgvEditoras = new System.Windows.Forms.DataGridView();
             this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
+            this.txtNome = new System.Windows.Forms.TextBox();
             this.groupBox2.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
             this.tbl.SuspendLayout();
@@ -93,17 +93,6 @@
             this.lblCNPJ.Text = "CNPJ";
             this.lblCNPJ.Click += new System.EventHandler(this.lblUsuario_Click);
             // 
-            // cbLivro
-            // 
-            this.cbLivro.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.cbLivro.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.cbLivro.FormattingEnabled = true;
-            this.cbLivro.Location = new System.Drawing.Point(83, 115);
-            this.cbLivro.Name = "cbLivro";
-            this.cbLivro.Size = new System.Drawing.Size(489, 26);
-            this.cbLivro.TabIndex = 7;
-            this.cbLivro.SelectedIndexChanged += new System.EventHandler(this.cbLivro_SelectedIndexChanged);
-            // 
             // cbUsuario
             // 
             this.cbUsuario.Cursor = System.Windows.Forms.Cursors.IBeam;
@@ -115,8 +104,8 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.txtNome);
             this.groupBox2.Controls.Add(this.cbUsuario);
-            this.groupBox2.Controls.Add(this.cbLivro);
             this.groupBox2.Controls.Add(this.lblCNPJ);
             this.groupBox2.Controls.Add(this.lblNome);
             this.groupBox2.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -317,6 +306,13 @@
             this.tableLayoutPanel4.Size = new System.Drawing.Size(818, 442);
             this.tableLayoutPanel4.TabIndex = 14;
             // 
+            // txtNome
+            // 
+            this.txtNome.Location = new System.Drawing.Point(83, 120);
+            this.txtNome.Name = "txtNome";
+            this.txtNome.Size = new System.Drawing.Size(489, 26);
+            this.txtNome.TabIndex = 9;
+            // 
             // frmEditora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -347,7 +343,6 @@
         private System.Windows.Forms.LinkLabel linklblVoltar;
         private System.Windows.Forms.Label lblNome;
         private System.Windows.Forms.Label lblCNPJ;
-        private System.Windows.Forms.ComboBox cbLivro;
         private System.Windows.Forms.ComboBox cbUsuario;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
@@ -362,5 +357,6 @@
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel5;
         private System.Windows.Forms.Button btnExcluir;
         private System.Windows.Forms.Button btnModificar;
+        private System.Windows.Forms.TextBox txtNome;
     }
 }

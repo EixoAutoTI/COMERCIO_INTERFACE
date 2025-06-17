@@ -27,18 +27,18 @@ namespace appComercio
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (txtEmail.Text == "" || txtCidade.Text == "")
+            if (txtNome.Text == "" || txtNome.Text == "" || txtSenha.Text == "" || cbInstituicao.Text == "")
             {
                 MessageBox.Show("Campo vazio. Nenhum dado foi cadastrado");
             }
             else {
-                if (txtEmail.Text == "sla") //Percorrer pelo banco e procurar se o dado já está cadastrado
+                if (txtCPF.Text == "sla") //Percorrer pelo banco e procurar se o dado já está cadastrado
                 {
                     MessageBox.Show("Esse usuário já está cadastrado, faça o login");
                 }else
                 {
-                    email = txtEmail.Text;
-                    cidade = txtCidade.Text;
+                    email = txtCPF.Text;
+                    cidade = txtNome.Text;
                     //adicionar o usuário no db
                     //Adicionar o usuário no dgv usuario
                 }
@@ -78,6 +78,11 @@ namespace appComercio
         }
 
         private void txtEmail_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void gbTelaCadastro_Enter(object sender, EventArgs e)
         {
 
         }

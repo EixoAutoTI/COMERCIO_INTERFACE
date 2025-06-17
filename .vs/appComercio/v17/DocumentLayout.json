@@ -3,62 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmeditora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmeditora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmlivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmlivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|c:\\users\\992714\\onedrive\\documentos\\github\\comercio_interface\\frmcadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmcadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmcadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmcadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmeditora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmeditora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmlivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmlivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmcadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmcadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmlivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmlivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|appComercio||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmeditora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmeditora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmeditora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmeditora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmlivros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmlivros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|c:\\users\\992714\\onedrive\\documentos\\github\\comercio_interface\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,17 +62,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "frmLivros.cs",
               "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmLivros.cs",
               "RelativeDocumentMoniker": "frmLivros.cs",
               "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmLivros.cs",
               "RelativeToolTip": "frmLivros.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAEwEMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAEwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T22:41:50.843Z",
               "IsPinned": true,
@@ -86,7 +80,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "frmReservas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmReservas.cs",
+              "RelativeDocumentMoniker": "frmReservas.cs",
+              "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmReservas.cs [Design]",
+              "RelativeToolTip": "frmReservas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:53:42.405Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmEditora.cs",
+              "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmEditora.cs",
+              "RelativeDocumentMoniker": "frmEditora.cs",
+              "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmEditora.cs",
+              "RelativeToolTip": "frmEditora.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAMwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:36:31.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:40:42.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "frmPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "frmPrincipal.cs",
@@ -94,25 +124,35 @@
               "RelativeToolTip": "frmPrincipal.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAvwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T23:22:34.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T23:22:34.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmReservas.cs",
-              "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmReservas.cs",
-              "RelativeDocumentMoniker": "frmReservas.cs",
-              "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmReservas.cs",
-              "RelativeToolTip": "frmReservas.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAIA3wCwAAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "frmCadastroUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmCadastroUsuario.cs",
+              "RelativeDocumentMoniker": "frmCadastroUsuario.cs",
+              "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmCadastroUsuario.cs [Design]",
+              "RelativeToolTip": "frmCadastroUsuario.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T23:07:42.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T22:40:38.285Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "frmEditora.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmEditora.cs",
+              "RelativeDocumentMoniker": "frmEditora.cs",
+              "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmEditora.cs [Design]",
+              "RelativeToolTip": "frmEditora.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:40:39.992Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "frmLivros.cs [Design]",
               "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmLivros.cs",
               "RelativeDocumentMoniker": "frmLivros.cs",
@@ -124,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
@@ -136,7 +176,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "frmCadastroUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmCadastroUsuario.cs",
+              "RelativeDocumentMoniker": "frmCadastroUsuario.cs",
+              "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmCadastroUsuario.cs",
+              "RelativeToolTip": "frmCadastroUsuario.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAvwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:34:33.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
@@ -149,93 +202,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmCadastroUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmCadastroUsuario.cs",
-              "RelativeDocumentMoniker": "frmCadastroUsuario.cs",
-              "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmCadastroUsuario.cs",
-              "RelativeToolTip": "frmCadastroUsuario.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAvwBwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T23:34:33.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmReservas.cs [Design]",
+              "DocumentIndex": 10,
+              "Title": "frmReservas.cs",
               "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmReservas.cs",
               "RelativeDocumentMoniker": "frmReservas.cs",
-              "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmReservas.cs [Design]",
-              "RelativeToolTip": "frmReservas.cs [Design]",
+              "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmReservas.cs",
+              "RelativeToolTip": "frmReservas.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAlwDsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T22:53:42.405Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmEditora.cs",
-              "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmEditora.cs",
-              "RelativeDocumentMoniker": "frmEditora.cs",
-              "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmEditora.cs",
-              "RelativeToolTip": "frmEditora.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAMwCYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T23:36:31.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmPrincipal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmPrincipal.cs",
-              "RelativeDocumentMoniker": "frmPrincipal.cs",
-              "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmPrincipal.cs [Design]",
-              "RelativeToolTip": "frmPrincipal.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T22:40:42.852Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmCadastroUsuario.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmCadastroUsuario.cs",
-              "RelativeDocumentMoniker": "frmCadastroUsuario.cs",
-              "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmCadastroUsuario.cs [Design]",
-              "RelativeToolTip": "frmCadastroUsuario.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T22:40:38.285Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appComercio",
-              "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\appComercio.csproj",
-              "RelativeDocumentMoniker": "appComercio.csproj",
-              "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\appComercio.csproj",
-              "RelativeToolTip": "appComercio.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-05T23:09:06.395Z",
+              "WhenOpened": "2025-06-04T23:07:42.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "frmEditora.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmEditora.cs",
-              "RelativeDocumentMoniker": "frmEditora.cs",
-              "ToolTip": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmEditora.cs [Design]",
-              "RelativeToolTip": "frmEditora.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T22:40:39.992Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "frmLivros.Designer.cs",
               "DocumentMoniker": "C:\\Users\\992714\\OneDrive\\Documentos\\GitHub\\COMERCIO_INTERFACE\\frmLivros.Designer.cs",
               "RelativeDocumentMoniker": "frmLivros.Designer.cs",

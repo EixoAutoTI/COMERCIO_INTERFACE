@@ -39,14 +39,14 @@ namespace appComercio
 
         private void btnUsuario_Click(object sender, EventArgs e)
         {
-            if (txtUsuario.Text == "" || txtLivro.Text == "" || dtReserva.Text == "")
+            if (cbUsuario.Text == "" || cbLivro.Text == "" || dtReserva.Text == "")
             {
                 MessageBox.Show("Campo vazio. Nenhum dado foi cadastrado");
             }
 
-            livro = txtLivro.Text;
+            livro =cbLivro.Text;
             editora = cbEditora.Text;
-            usuario = txtUsuario.Text;
+            usuario = cbUsuario.Text;
         }
 
         private void label1_Click_1(object sender, EventArgs e)
@@ -58,10 +58,14 @@ namespace appComercio
         {
             //Incluir data atual 
             DateTime d = DateTime.Now;
-            Console.WriteLine(d);
         }
 
         private void tableLayoutPanel4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void cbEditora_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
