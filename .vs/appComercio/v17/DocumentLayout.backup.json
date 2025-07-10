@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\COMERCIO_INTERFACE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|D:\\GitHub\\COMERCIO_INTERFACE\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|d:\\github\\comercio_interface\\cadastrousuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:cadastrousuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|d:\\github\\comercio_interface\\frmpagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmpagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|D:\\GitHub\\COMERCIO_INTERFACE\\frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|D:\\GitHub\\COMERCIO_INTERFACE\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|d:\\github\\comercio_interface\\apirotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:apirotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|D:\\GitHub\\COMERCIO_INTERFACE\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F969BFFF-B904-4A6B-B2D2-89709C7B1305}|appComercio.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\GitHub\\COMERCIO_INTERFACE\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "D:\\GitHub\\COMERCIO_INTERFACE\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:29:01.297Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\COMERCIO_INTERFACE\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "D:\\GitHub\\COMERCIO_INTERFACE\\frmLogin.cs [Design]",
+              "RelativeToolTip": "frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T00:28:47.104Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "apiRotasController.cs",
+              "DocumentMoniker": "D:\\GitHub\\COMERCIO_INTERFACE\\apiRotasController.cs",
+              "RelativeDocumentMoniker": "apiRotasController.cs",
+              "ToolTip": "D:\\GitHub\\COMERCIO_INTERFACE\\apiRotasController.cs",
+              "RelativeToolTip": "apiRotasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:07:34.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastroUsuarioModel.cs",
+              "DocumentMoniker": "D:\\GitHub\\COMERCIO_INTERFACE\\CadastroUsuarioModel.cs",
+              "RelativeDocumentMoniker": "CadastroUsuarioModel.cs",
+              "ToolTip": "D:\\GitHub\\COMERCIO_INTERFACE\\CadastroUsuarioModel.cs",
+              "RelativeToolTip": "CadastroUsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:06:11.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCadastro.cs",
+              "DocumentMoniker": "D:\\GitHub\\COMERCIO_INTERFACE\\frmCadastro.cs",
+              "RelativeDocumentMoniker": "frmCadastro.cs",
+              "ToolTip": "D:\\GitHub\\COMERCIO_INTERFACE\\frmCadastro.cs",
+              "RelativeToolTip": "frmCadastro.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAkwIAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:46:35.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCadastro.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\COMERCIO_INTERFACE\\frmCadastro.cs",
+              "RelativeDocumentMoniker": "frmCadastro.cs",
+              "ToolTip": "D:\\GitHub\\COMERCIO_INTERFACE\\frmCadastro.cs [Design]",
+              "RelativeToolTip": "frmCadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:45:49.376Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPagina.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\COMERCIO_INTERFACE\\frmPagina.cs",
+              "RelativeDocumentMoniker": "frmPagina.cs",
+              "ToolTip": "D:\\GitHub\\COMERCIO_INTERFACE\\frmPagina.cs [Design]",
+              "RelativeToolTip": "frmPagina.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:45:35.31Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

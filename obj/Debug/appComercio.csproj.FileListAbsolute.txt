@@ -1,10 +1,24 @@
-C:\Users\Fábio Leonel\source\repos\appComercio\bin\Debug\appComercio.exe.config
-C:\Users\Fábio Leonel\source\repos\appComercio\bin\Debug\appComercio.exe
-C:\Users\Fábio Leonel\source\repos\appComercio\bin\Debug\appComercio.pdb
-C:\Users\Fábio Leonel\source\repos\appComercio\obj\Debug\appComercio.csproj.AssemblyReference.cache
-C:\Users\Fábio Leonel\source\repos\appComercio\obj\Debug\appComercio.frmLogin.resources
-C:\Users\Fábio Leonel\source\repos\appComercio\obj\Debug\appComercio.Properties.Resources.resources
-C:\Users\Fábio Leonel\source\repos\appComercio\obj\Debug\appComercio.csproj.GenerateResource.cache
-C:\Users\Fábio Leonel\source\repos\appComercio\obj\Debug\appComercio.csproj.CoreCompileInputs.cache
-C:\Users\Fábio Leonel\source\repos\appComercio\obj\Debug\appComercio.exe
-C:\Users\Fábio Leonel\source\repos\appComercio\obj\Debug\appComercio.pdb
+D:\GitHub\COMERCIO_INTERFACE\bin\Debug\appComercio.exe.config
+D:\GitHub\COMERCIO_INTERFACE\bin\Debug\appComercio.exe
+D:\GitHub\COMERCIO_INTERFACE\bin\Debug\appComercio.pdb
+D:\GitHub\COMERCIO_INTERFACE\bin\Debug\EntityFramework.dll
+D:\GitHub\COMERCIO_INTERFACE\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\COMERCIO_INTERFACE\bin\Debug\System.Data.SQLite.dll
+D:\GitHub\COMERCIO_INTERFACE\bin\Debug\System.Data.SQLite.EF6.dll
+D:\GitHub\COMERCIO_INTERFACE\bin\Debug\System.Data.SQLite.Linq.dll
+D:\GitHub\COMERCIO_INTERFACE\bin\Debug\EntityFramework.xml
+D:\GitHub\COMERCIO_INTERFACE\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\COMERCIO_INTERFACE\bin\Debug\System.Data.SQLite.xml
+D:\GitHub\COMERCIO_INTERFACE\obj\Debug\appComercio.csproj.AssemblyReference.cache
+D:\GitHub\COMERCIO_INTERFACE\obj\Debug\appComercio.frmCadastro.resources
+D:\GitHub\COMERCIO_INTERFACE\obj\Debug\appComercio.frmLogin.resources
+D:\GitHub\COMERCIO_INTERFACE\obj\Debug\appComercio.frmPagina.resources
+D:\GitHub\COMERCIO_INTERFACE\obj\Debug\appComercio.Properties.Resources.resources
+D:\GitHub\COMERCIO_INTERFACE\obj\Debug\appComercio.csproj.GenerateResource.cache
+D:\GitHub\COMERCIO_INTERFACE\obj\Debug\appComercio.csproj.CoreCompileInputs.cache
+D:\GitHub\COMERCIO_INTERFACE\obj\Debug\appComer.EF90BC53.Up2Date
+D:\GitHub\COMERCIO_INTERFACE\obj\Debug\appComercio.exe
+D:\GitHub\COMERCIO_INTERFACE\obj\Debug\appComercio.pdb
+D:\GitHub\COMERCIO_INTERFACE\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\COMERCIO_INTERFACE\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\COMERCIO_INTERFACE\obj\Debug\appComercio.exe.config
