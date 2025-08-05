@@ -35,6 +35,7 @@
             this.lblCNPJ = new System.Windows.Forms.Label();
             this.cbUsuario = new System.Windows.Forms.ComboBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.txtNome = new System.Windows.Forms.TextBox();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.tbl = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel6 = new System.Windows.Forms.TableLayoutPanel();
@@ -47,7 +48,6 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.dgvEditoras = new System.Windows.Forms.DataGridView();
             this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
-            this.txtNome = new System.Windows.Forms.TextBox();
             this.groupBox2.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
             this.tbl.SuspendLayout();
@@ -73,9 +73,10 @@
             // 
             // lblNome
             // 
+            this.lblNome.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblNome.AutoSize = true;
             this.lblNome.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNome.Location = new System.Drawing.Point(80, 82);
+            this.lblNome.Location = new System.Drawing.Point(65, 116);
             this.lblNome.Name = "lblNome";
             this.lblNome.Size = new System.Drawing.Size(54, 19);
             this.lblNome.TabIndex = 0;
@@ -84,9 +85,10 @@
             // 
             // lblCNPJ
             // 
+            this.lblCNPJ.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblCNPJ.AutoSize = true;
             this.lblCNPJ.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCNPJ.Location = new System.Drawing.Point(79, 187);
+            this.lblCNPJ.Location = new System.Drawing.Point(64, 212);
             this.lblCNPJ.Name = "lblCNPJ";
             this.lblCNPJ.Size = new System.Drawing.Size(53, 19);
             this.lblCNPJ.TabIndex = 1;
@@ -95,9 +97,10 @@
             // 
             // cbUsuario
             // 
+            this.cbUsuario.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.cbUsuario.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.cbUsuario.FormattingEnabled = true;
-            this.cbUsuario.Location = new System.Drawing.Point(83, 222);
+            this.cbUsuario.Location = new System.Drawing.Point(68, 247);
             this.cbUsuario.Name = "cbUsuario";
             this.cbUsuario.Size = new System.Drawing.Size(489, 26);
             this.cbUsuario.TabIndex = 8;
@@ -116,6 +119,15 @@
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Cadastro de Editoras";
+            this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
+            // 
+            // txtNome
+            // 
+            this.txtNome.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txtNome.Location = new System.Drawing.Point(68, 154);
+            this.txtNome.Name = "txtNome";
+            this.txtNome.Size = new System.Drawing.Size(489, 26);
+            this.txtNome.TabIndex = 9;
             // 
             // tableLayoutPanel1
             // 
@@ -159,9 +171,8 @@
             this.tableLayoutPanel6.ColumnCount = 4;
             this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 5F));
             this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 65F));
-            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 20F));
+            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 15F));
+            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 15F));
             this.tableLayoutPanel6.Controls.Add(this.btnReserva, 1, 0);
             this.tableLayoutPanel6.Controls.Add(this.button3, 2, 0);
             this.tableLayoutPanel6.Location = new System.Drawing.Point(826, 451);
@@ -182,7 +193,7 @@
             this.btnReserva.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnReserva.Location = new System.Drawing.Point(43, 3);
             this.btnReserva.Name = "btnReserva";
-            this.btnReserva.Size = new System.Drawing.Size(525, 49);
+            this.btnReserva.Size = new System.Drawing.Size(566, 49);
             this.btnReserva.TabIndex = 3;
             this.btnReserva.Text = "Cadastrar";
             this.btnReserva.UseVisualStyleBackColor = false;
@@ -197,7 +208,7 @@
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.Image = ((System.Drawing.Image)(resources.GetObject("button3.Image")));
-            this.button3.Location = new System.Drawing.Point(673, 3);
+            this.button3.Location = new System.Drawing.Point(632, 3);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(58, 49);
             this.button3.TabIndex = 8;
@@ -305,13 +316,6 @@
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.tableLayoutPanel4.Size = new System.Drawing.Size(818, 442);
             this.tableLayoutPanel4.TabIndex = 14;
-            // 
-            // txtNome
-            // 
-            this.txtNome.Location = new System.Drawing.Point(83, 120);
-            this.txtNome.Name = "txtNome";
-            this.txtNome.Size = new System.Drawing.Size(489, 26);
-            this.txtNome.TabIndex = 9;
             // 
             // frmEditora
             // 

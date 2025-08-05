@@ -35,6 +35,8 @@
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel6 = new System.Windows.Forms.TableLayoutPanel();
             this.gbCadastroReservas = new System.Windows.Forms.GroupBox();
+            this.cbLivro = new System.Windows.Forms.ComboBox();
+            this.cbUsuario = new System.Windows.Forms.ComboBox();
             this.lblDataReserva = new System.Windows.Forms.Label();
             this.dtReserva = new System.Windows.Forms.DateTimePicker();
             this.cbEditora = new System.Windows.Forms.ComboBox();
@@ -50,8 +52,6 @@
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
             this.btnExcluir = new System.Windows.Forms.Button();
             this.btnModificar = new System.Windows.Forms.Button();
-            this.cbUsuario = new System.Windows.Forms.ComboBox();
-            this.cbLivro = new System.Windows.Forms.ComboBox();
             this.tableLayoutPanel1.SuspendLayout();
             this.tableLayoutPanel2.SuspendLayout();
             this.tableLayoutPanel6.SuspendLayout();
@@ -150,6 +150,22 @@
             this.gbCadastroReservas.TabIndex = 1;
             this.gbCadastroReservas.TabStop = false;
             this.gbCadastroReservas.Text = "Cadastro Reservas";
+            // 
+            // cbLivro
+            // 
+            this.cbLivro.FormattingEnabled = true;
+            this.cbLivro.Location = new System.Drawing.Point(58, 117);
+            this.cbLivro.Name = "cbLivro";
+            this.cbLivro.Size = new System.Drawing.Size(647, 26);
+            this.cbLivro.TabIndex = 11;
+            // 
+            // cbUsuario
+            // 
+            this.cbUsuario.FormattingEnabled = true;
+            this.cbUsuario.Location = new System.Drawing.Point(58, 202);
+            this.cbUsuario.Name = "cbUsuario";
+            this.cbUsuario.Size = new System.Drawing.Size(647, 26);
+            this.cbUsuario.TabIndex = 10;
             // 
             // lblDataReserva
             // 
@@ -355,22 +371,6 @@
             this.btnModificar.TabIndex = 9;
             this.btnModificar.Text = "Modificar";
             this.btnModificar.UseVisualStyleBackColor = false;
-            // 
-            // cbUsuario
-            // 
-            this.cbUsuario.FormattingEnabled = true;
-            this.cbUsuario.Location = new System.Drawing.Point(58, 202);
-            this.cbUsuario.Name = "cbUsuario";
-            this.cbUsuario.Size = new System.Drawing.Size(647, 26);
-            this.cbUsuario.TabIndex = 10;
-            // 
-            // cbLivro
-            // 
-            this.cbLivro.FormattingEnabled = true;
-            this.cbLivro.Location = new System.Drawing.Point(58, 117);
-            this.cbLivro.Name = "cbLivro";
-            this.cbLivro.Size = new System.Drawing.Size(647, 26);
-            this.cbLivro.TabIndex = 11;
             // 
             // frmReservas
             // 

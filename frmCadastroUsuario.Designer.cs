@@ -40,19 +40,19 @@
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel5 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
-            this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
-            this.linklblVoltar = new System.Windows.Forms.LinkLabel();
-            this.tableLayoutPanel6 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel7 = new System.Windows.Forms.TableLayoutPanel();
-            this.lblNome = new System.Windows.Forms.Label();
-            this.lblInstituicao = new System.Windows.Forms.Label();
-            this.txtCPF = new System.Windows.Forms.TextBox();
-            this.cbInstituicao = new System.Windows.Forms.ComboBox();
-            this.lblCPF = new System.Windows.Forms.Label();
-            this.txtNome = new System.Windows.Forms.TextBox();
-            this.lblSenha = new System.Windows.Forms.Label();
-            this.txtSenha = new System.Windows.Forms.TextBox();
+            this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
+            this.tableLayoutPanel6 = new System.Windows.Forms.TableLayoutPanel();
             this.gbTelaCadastro = new System.Windows.Forms.GroupBox();
+            this.txtSenha = new System.Windows.Forms.TextBox();
+            this.lblSenha = new System.Windows.Forms.Label();
+            this.txtNome = new System.Windows.Forms.TextBox();
+            this.lblCPF = new System.Windows.Forms.Label();
+            this.cbInstituicao = new System.Windows.Forms.ComboBox();
+            this.txtCPF = new System.Windows.Forms.TextBox();
+            this.lblInstituicao = new System.Windows.Forms.Label();
+            this.lblNome = new System.Windows.Forms.Label();
+            this.linklblVoltar = new System.Windows.Forms.LinkLabel();
             this.gbUsuarios.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvUsuarios)).BeginInit();
             this.tableLayoutPanel1.SuspendLayout();
@@ -90,7 +90,7 @@
             this.gbUsuarios.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gbUsuarios.Location = new System.Drawing.Point(87, 3);
             this.gbUsuarios.Name = "gbUsuarios";
-            this.gbUsuarios.Size = new System.Drawing.Size(715, 378);
+            this.gbUsuarios.Size = new System.Drawing.Size(715, 434);
             this.gbUsuarios.TabIndex = 6;
             this.gbUsuarios.TabStop = false;
             this.gbUsuarios.Text = "Usuários";
@@ -103,7 +103,7 @@
             this.dgvUsuarios.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgvUsuarios.Location = new System.Drawing.Point(3, 22);
             this.dgvUsuarios.Name = "dgvUsuarios";
-            this.dgvUsuarios.Size = new System.Drawing.Size(709, 353);
+            this.dgvUsuarios.Size = new System.Drawing.Size(709, 409);
             this.dgvUsuarios.TabIndex = 0;
             this.dgvUsuarios.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvUsuarios_CellContentClick);
             // 
@@ -163,8 +163,8 @@
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 3;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 70F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 80F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(1716, 806);
             this.tableLayoutPanel1.TabIndex = 11;
@@ -180,12 +180,12 @@
             this.tableLayoutPanel2.Controls.Add(this.tableLayoutPanel4, 1, 1);
             this.tableLayoutPanel2.Controls.Add(this.tableLayoutPanel6, 1, 0);
             this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel2.Location = new System.Drawing.Point(3, 164);
+            this.tableLayoutPanel2.Location = new System.Drawing.Point(3, 83);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 2;
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 70F));
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 30F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(1710, 558);
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(1710, 638);
             this.tableLayoutPanel2.TabIndex = 12;
             // 
             // tableLayoutPanel5
@@ -202,7 +202,7 @@
             this.tableLayoutPanel5.Name = "tableLayoutPanel5";
             this.tableLayoutPanel5.RowCount = 1;
             this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel5.Size = new System.Drawing.Size(849, 384);
+            this.tableLayoutPanel5.Size = new System.Drawing.Size(849, 440);
             this.tableLayoutPanel5.TabIndex = 12;
             // 
             // tableLayoutPanel3
@@ -219,12 +219,26 @@
             this.tableLayoutPanel3.Controls.Add(this.btnExcluir, 1, 0);
             this.tableLayoutPanel3.Controls.Add(this.btnModificar, 3, 0);
             this.tableLayoutPanel3.Controls.Add(this.tableLayoutPanel7, 2, 0);
-            this.tableLayoutPanel3.Location = new System.Drawing.Point(3, 393);
+            this.tableLayoutPanel3.Location = new System.Drawing.Point(3, 449);
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 1;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(849, 162);
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(849, 186);
             this.tableLayoutPanel3.TabIndex = 12;
+            // 
+            // tableLayoutPanel7
+            // 
+            this.tableLayoutPanel7.ColumnCount = 3;
+            this.tableLayoutPanel7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 15F));
+            this.tableLayoutPanel7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 70F));
+            this.tableLayoutPanel7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 15F));
+            this.tableLayoutPanel7.Location = new System.Drawing.Point(384, 3);
+            this.tableLayoutPanel7.Name = "tableLayoutPanel7";
+            this.tableLayoutPanel7.RowCount = 1;
+            this.tableLayoutPanel7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tableLayoutPanel7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 126F));
+            this.tableLayoutPanel7.Size = new System.Drawing.Size(38, 126);
+            this.tableLayoutPanel7.TabIndex = 7;
             // 
             // tableLayoutPanel4
             // 
@@ -236,24 +250,12 @@
             this.tableLayoutPanel4.Controls.Add(this.btnSalvar, 2, 0);
             this.tableLayoutPanel4.Controls.Add(this.btnUsuario, 1, 0);
             this.tableLayoutPanel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel4.Location = new System.Drawing.Point(858, 393);
+            this.tableLayoutPanel4.Location = new System.Drawing.Point(858, 449);
             this.tableLayoutPanel4.Name = "tableLayoutPanel4";
             this.tableLayoutPanel4.RowCount = 1;
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel4.Size = new System.Drawing.Size(849, 162);
+            this.tableLayoutPanel4.Size = new System.Drawing.Size(849, 186);
             this.tableLayoutPanel4.TabIndex = 13;
-            // 
-            // linklblVoltar
-            // 
-            this.linklblVoltar.AutoSize = true;
-            this.linklblVoltar.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.linklblVoltar.Location = new System.Drawing.Point(3, 0);
-            this.linklblVoltar.Name = "linklblVoltar";
-            this.linklblVoltar.Size = new System.Drawing.Size(63, 20);
-            this.linklblVoltar.TabIndex = 10;
-            this.linklblVoltar.TabStop = true;
-            this.linklblVoltar.Text = "<-- Voltar";
-            this.linklblVoltar.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linklblVoltar_LinkClicked);
             // 
             // tableLayoutPanel6
             // 
@@ -269,102 +271,8 @@
             this.tableLayoutPanel6.Name = "tableLayoutPanel6";
             this.tableLayoutPanel6.RowCount = 1;
             this.tableLayoutPanel6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel6.Size = new System.Drawing.Size(849, 384);
+            this.tableLayoutPanel6.Size = new System.Drawing.Size(849, 440);
             this.tableLayoutPanel6.TabIndex = 13;
-            // 
-            // tableLayoutPanel7
-            // 
-            this.tableLayoutPanel7.ColumnCount = 3;
-            this.tableLayoutPanel7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 15F));
-            this.tableLayoutPanel7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 70F));
-            this.tableLayoutPanel7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 15F));
-            this.tableLayoutPanel7.Location = new System.Drawing.Point(384, 3);
-            this.tableLayoutPanel7.Name = "tableLayoutPanel7";
-            this.tableLayoutPanel7.RowCount = 1;
-            this.tableLayoutPanel7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 378F));
-            this.tableLayoutPanel7.Size = new System.Drawing.Size(38, 126);
-            this.tableLayoutPanel7.TabIndex = 7;
-            // 
-            // lblNome
-            // 
-            this.lblNome.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblNome.AutoSize = true;
-            this.lblNome.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNome.Location = new System.Drawing.Point(18, 96);
-            this.lblNome.Name = "lblNome";
-            this.lblNome.Size = new System.Drawing.Size(132, 19);
-            this.lblNome.TabIndex = 0;
-            this.lblNome.Text = "Nome Completo";
-            this.lblNome.Click += new System.EventHandler(this.label1_Click);
-            // 
-            // lblInstituicao
-            // 
-            this.lblInstituicao.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblInstituicao.AutoSize = true;
-            this.lblInstituicao.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblInstituicao.Location = new System.Drawing.Point(19, 251);
-            this.lblInstituicao.Name = "lblInstituicao";
-            this.lblInstituicao.Size = new System.Drawing.Size(88, 19);
-            this.lblInstituicao.TabIndex = 2;
-            this.lblInstituicao.Text = "Instituição";
-            this.lblInstituicao.Click += new System.EventHandler(this.lblCidade_Click);
-            // 
-            // txtCPF
-            // 
-            this.txtCPF.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtCPF.Location = new System.Drawing.Point(67, 49);
-            this.txtCPF.Name = "txtCPF";
-            this.txtCPF.Size = new System.Drawing.Size(603, 26);
-            this.txtCPF.TabIndex = 3;
-            this.txtCPF.TextChanged += new System.EventHandler(this.txtEmail_TextChanged);
-            // 
-            // cbInstituicao
-            // 
-            this.cbInstituicao.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.cbInstituicao.FormattingEnabled = true;
-            this.cbInstituicao.Location = new System.Drawing.Point(26, 286);
-            this.cbInstituicao.Name = "cbInstituicao";
-            this.cbInstituicao.Size = new System.Drawing.Size(621, 26);
-            this.cbInstituicao.TabIndex = 9;
-            // 
-            // lblCPF
-            // 
-            this.lblCPF.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblCPF.AutoSize = true;
-            this.lblCPF.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCPF.Location = new System.Drawing.Point(18, 18);
-            this.lblCPF.Name = "lblCPF";
-            this.lblCPF.Size = new System.Drawing.Size(42, 19);
-            this.lblCPF.TabIndex = 10;
-            this.lblCPF.Text = "CPF";
-            // 
-            // txtNome
-            // 
-            this.txtNome.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.txtNome.Location = new System.Drawing.Point(22, 130);
-            this.txtNome.Name = "txtNome";
-            this.txtNome.Size = new System.Drawing.Size(648, 26);
-            this.txtNome.TabIndex = 11;
-            // 
-            // lblSenha
-            // 
-            this.lblSenha.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.lblSenha.AutoSize = true;
-            this.lblSenha.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSenha.Location = new System.Drawing.Point(22, 175);
-            this.lblSenha.Name = "lblSenha";
-            this.lblSenha.Size = new System.Drawing.Size(58, 19);
-            this.lblSenha.TabIndex = 12;
-            this.lblSenha.Text = "Senha";
-            // 
-            // txtSenha
-            // 
-            this.txtSenha.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.txtSenha.Location = new System.Drawing.Point(22, 208);
-            this.txtSenha.Name = "txtSenha";
-            this.txtSenha.Size = new System.Drawing.Size(648, 26);
-            this.txtSenha.TabIndex = 13;
             // 
             // gbTelaCadastro
             // 
@@ -376,13 +284,106 @@
             this.gbTelaCadastro.Controls.Add(this.txtCPF);
             this.gbTelaCadastro.Controls.Add(this.lblInstituicao);
             this.gbTelaCadastro.Controls.Add(this.lblNome);
+            this.gbTelaCadastro.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gbTelaCadastro.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gbTelaCadastro.Location = new System.Drawing.Point(45, 3);
             this.gbTelaCadastro.Name = "gbTelaCadastro";
-            this.gbTelaCadastro.Size = new System.Drawing.Size(685, 312);
+            this.gbTelaCadastro.Size = new System.Drawing.Size(715, 434);
             this.gbTelaCadastro.TabIndex = 1;
             this.gbTelaCadastro.TabStop = false;
             this.gbTelaCadastro.Text = "Cadastro de Usuários";
+            // 
+            // txtSenha
+            // 
+            this.txtSenha.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txtSenha.Location = new System.Drawing.Point(26, 267);
+            this.txtSenha.Name = "txtSenha";
+            this.txtSenha.Size = new System.Drawing.Size(644, 26);
+            this.txtSenha.TabIndex = 13;
+            // 
+            // lblSenha
+            // 
+            this.lblSenha.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblSenha.AutoSize = true;
+            this.lblSenha.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSenha.Location = new System.Drawing.Point(22, 236);
+            this.lblSenha.Name = "lblSenha";
+            this.lblSenha.Size = new System.Drawing.Size(58, 19);
+            this.lblSenha.TabIndex = 12;
+            this.lblSenha.Text = "Senha";
+            // 
+            // txtNome
+            // 
+            this.txtNome.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txtNome.Location = new System.Drawing.Point(22, 189);
+            this.txtNome.Name = "txtNome";
+            this.txtNome.Size = new System.Drawing.Size(648, 26);
+            this.txtNome.TabIndex = 11;
+            // 
+            // lblCPF
+            // 
+            this.lblCPF.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblCPF.AutoSize = true;
+            this.lblCPF.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCPF.Location = new System.Drawing.Point(22, 79);
+            this.lblCPF.Name = "lblCPF";
+            this.lblCPF.Size = new System.Drawing.Size(42, 19);
+            this.lblCPF.TabIndex = 10;
+            this.lblCPF.Text = "CPF";
+            // 
+            // cbInstituicao
+            // 
+            this.cbInstituicao.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.cbInstituicao.FormattingEnabled = true;
+            this.cbInstituicao.Location = new System.Drawing.Point(26, 347);
+            this.cbInstituicao.Name = "cbInstituicao";
+            this.cbInstituicao.Size = new System.Drawing.Size(644, 26);
+            this.cbInstituicao.TabIndex = 9;
+            // 
+            // txtCPF
+            // 
+            this.txtCPF.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txtCPF.Location = new System.Drawing.Point(22, 111);
+            this.txtCPF.Name = "txtCPF";
+            this.txtCPF.Size = new System.Drawing.Size(648, 26);
+            this.txtCPF.TabIndex = 3;
+            this.txtCPF.TextChanged += new System.EventHandler(this.txtEmail_TextChanged);
+            // 
+            // lblInstituicao
+            // 
+            this.lblInstituicao.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblInstituicao.AutoSize = true;
+            this.lblInstituicao.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblInstituicao.Location = new System.Drawing.Point(22, 312);
+            this.lblInstituicao.Name = "lblInstituicao";
+            this.lblInstituicao.Size = new System.Drawing.Size(88, 19);
+            this.lblInstituicao.TabIndex = 2;
+            this.lblInstituicao.Text = "Instituição";
+            this.lblInstituicao.Click += new System.EventHandler(this.lblCidade_Click);
+            // 
+            // lblNome
+            // 
+            this.lblNome.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblNome.AutoSize = true;
+            this.lblNome.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNome.Location = new System.Drawing.Point(18, 155);
+            this.lblNome.Name = "lblNome";
+            this.lblNome.Size = new System.Drawing.Size(132, 19);
+            this.lblNome.TabIndex = 0;
+            this.lblNome.Text = "Nome Completo";
+            this.lblNome.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // linklblVoltar
+            // 
+            this.linklblVoltar.AutoSize = true;
+            this.linklblVoltar.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linklblVoltar.Location = new System.Drawing.Point(3, 0);
+            this.linklblVoltar.Name = "linklblVoltar";
+            this.linklblVoltar.Size = new System.Drawing.Size(63, 20);
+            this.linklblVoltar.TabIndex = 10;
+            this.linklblVoltar.TabStop = true;
+            this.linklblVoltar.Text = "<-- Voltar";
+            this.linklblVoltar.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linklblVoltar_LinkClicked);
             // 
             // frmCadastroUsuario
             // 

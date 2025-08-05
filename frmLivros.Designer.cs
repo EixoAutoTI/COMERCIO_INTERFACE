@@ -85,21 +85,21 @@
             // cbEditora
             // 
             this.cbEditora.FormattingEnabled = true;
-            this.cbEditora.Location = new System.Drawing.Point(60, 340);
+            this.cbEditora.Location = new System.Drawing.Point(60, 400);
             this.cbEditora.Name = "cbEditora";
             this.cbEditora.Size = new System.Drawing.Size(626, 26);
             this.cbEditora.TabIndex = 8;
             // 
             // txtGenero
             // 
-            this.txtGenero.Location = new System.Drawing.Point(61, 271);
+            this.txtGenero.Location = new System.Drawing.Point(60, 307);
             this.txtGenero.Name = "txtGenero";
             this.txtGenero.Size = new System.Drawing.Size(626, 26);
             this.txtGenero.TabIndex = 7;
             // 
             // txtISBN
             // 
-            this.txtISBN.Location = new System.Drawing.Point(61, 206);
+            this.txtISBN.Location = new System.Drawing.Point(60, 225);
             this.txtISBN.Name = "txtISBN";
             this.txtISBN.Size = new System.Drawing.Size(626, 26);
             this.txtISBN.TabIndex = 6;
@@ -115,7 +115,7 @@
             // 
             this.lblGenero.AutoSize = true;
             this.lblGenero.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblGenero.Location = new System.Drawing.Point(56, 249);
+            this.lblGenero.Location = new System.Drawing.Point(55, 272);
             this.lblGenero.Name = "lblGenero";
             this.lblGenero.Size = new System.Drawing.Size(65, 19);
             this.lblGenero.TabIndex = 3;
@@ -125,7 +125,7 @@
             // 
             this.lblEditora.AutoSize = true;
             this.lblEditora.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEditora.Location = new System.Drawing.Point(61, 318);
+            this.lblEditora.Location = new System.Drawing.Point(56, 369);
             this.lblEditora.Name = "lblEditora";
             this.lblEditora.Size = new System.Drawing.Size(64, 19);
             this.lblEditora.TabIndex = 2;
@@ -136,7 +136,7 @@
             // 
             this.lblISBN.AutoSize = true;
             this.lblISBN.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblISBN.Location = new System.Drawing.Point(57, 184);
+            this.lblISBN.Location = new System.Drawing.Point(55, 194);
             this.lblISBN.Name = "lblISBN";
             this.lblISBN.Size = new System.Drawing.Size(48, 19);
             this.lblISBN.TabIndex = 1;
@@ -146,7 +146,7 @@
             // 
             this.lblTitulo.AutoSize = true;
             this.lblTitulo.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitulo.Location = new System.Drawing.Point(53, 120);
+            this.lblTitulo.Location = new System.Drawing.Point(55, 107);
             this.lblTitulo.Name = "lblTitulo";
             this.lblTitulo.Size = new System.Drawing.Size(52, 19);
             this.lblTitulo.TabIndex = 0;

@@ -57,5 +57,10 @@ namespace appComercio
         private void txtSenha_TextChanged(object sender, EventArgs e)
         {
         }
+
+        private void gbTelaLogin_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
